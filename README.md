@@ -1,4 +1,7 @@
 # godot-js
+```copy
+https://cdn.jsdelivr.net/gh/configfarsteam-bit/godot-JS@main/godot.js
+```
 
 ## English
 
